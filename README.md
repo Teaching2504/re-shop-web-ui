@@ -2,6 +2,7 @@ HỌC GITHUB TỪ CƠ BẢN ĐẾN NÂNG CAO DÙNG TRONG CÔNG VIỆC NGÀY 21/0
 PROJECT TEAMS:
 1. NGUYỄN THỊ TUYẾT TRINH
 2. DƯƠNG LÊ KIM PHỤNG
+
 9. Thực hành các thao tác Git trên dự án RE Shopper Web UI
 9.1. Thêm 1 người tham gia vào RE Shopper Repository mục Collaborators
 9.2. Live pair-working demo với người tham gia về việc xử lý xung đột code:
